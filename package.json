@@ -1,0 +1,16 @@
+{
+  "name": "heic-conveter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Min ho Kim <minho42@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "heic-convert": "^2.1.0"
+  }
+}
